@@ -1,0 +1,357 @@
+@media (max-width:1200px) {}
+
+@media (max-width:992px) {
+    .copyRight>span {
+        font-size: 10px;
+        line-height: 12.19px;
+    }
+
+    .sweeper>img {
+        width: 100%;
+    }
+
+    .mySwiper {
+        height: 350px;
+    }
+
+    .drop>span:nth-child(1) {
+        font-size: 15px;
+    }
+
+    .drop>span:nth-child(1)>small {
+        font-size: 11px;
+    }
+
+    .sweeperImgCard>.sweeperImgitem:nth-child(even) {
+        margin-left: auto;
+    }
+
+    .sweeperImgitem:nth-child(3) {
+        margin-bottom: 0px;
+    }
+
+    .sweeperImgitem:nth-child(2) {
+        margin-bottom: 35%;
+    }
+
+    .sweeperImgitem:nth-child(1) {
+        margin-top: 25%;
+    }
+
+    .aboutBannerDiv>h1 {
+        font-size: 33px;
+    }
+
+    .aboutBannerDiv {
+        padding: 75px 0px;
+    }
+
+    .aboutHeading>h1 {
+        font-size: 32px;
+    }
+
+    .aboutHeading>h3 {
+        font-size: 20px;
+    }
+
+    .aboutContent>p {
+        font-size: 16px;
+    }
+
+    .cardSectionImg {
+        width: 100px;
+    }
+
+    .sectionHandlerHeading h1 {
+        font-size: 35px;
+    }
+
+    .sectionHandlerHeading p,
+    .sectionHandlerHeading li {
+        font-size: 13px;
+    }
+
+    .sectionHandlerHeading a {
+        font-size: 14px;
+    }
+}
+
+@media (max-width:768px) {
+    .BannerContentIconsItems>span {
+        width: 100% !important;
+        margin-bottom: 15px;
+        margin-right: 0px !important;
+    }
+
+    .BannerContentIconsItems>span>img {
+        width: 60px !important;
+    }
+
+    .copyRight {
+        text-align: center;
+        margin-bottom: 6px;
+    }
+
+    .copyRight>span {
+        font-size: 12px;
+        line-height: 15.19px;
+    }
+
+    .emailInfo>h4,
+    .emailInfo>h5 {
+        font-size: 18px;
+    }
+
+    .drop>span:nth-child(1) {
+        font-size: 14px;
+    }
+
+    .aboutBannerDiv>h1 {
+        font-size: 30px;
+    }
+
+    .aboutBannerDiv {
+        padding: 60px 0px;
+    }
+
+    .aboutHeading>h1 {
+        font-size: 28px;
+    }
+
+    .aboutHeading>h3 {
+        font-size: 19px;
+    }
+
+    .aboutContent>p {
+        font-size: 15px;
+    }
+
+    .cardSectionImg {
+        width: 75px;
+    }
+
+    .sectionHandlerHeading h1 {
+        font-size: 30px;
+    }
+
+    .sectionHandlerHeading p,
+    .sectionHandlerHeading li {
+        font-size: 12px;
+    }
+
+    .sectionHandlerHeading a {
+        font-size: 13px;
+    }
+
+    .sectionHandlerHeading {
+        padding: 35px;
+    }
+
+    .sliderBtn {
+        height: 90%;
+    }
+
+    .sliderBtn>.mySwiper>.swiper-pagination {
+        bottom: -6px;
+    }
+
+    .swiper-wrapper~.swiper-pagination {
+        display: block;
+    }
+
+    .sliderBtn>.mySwiper2 {
+        display: none;
+    }
+
+    .row:has(.mySwiper6)>div {
+        display: none;
+    }
+
+    .row:has(.mySwiper6)>div.mySwiper6 {
+        display: block !important;
+    }
+
+    .productItem {
+        width: calc(100% / 2 - 7px);
+        margin: 10px 0;
+    }
+
+    .templateOneHeading {
+        margin-bottom: 15px;
+    }
+
+    .templateOneItem {
+        margin-bottom: 35px;
+    }
+
+    .productForm .form-group {
+        width: calc(100% / 1 - 10px) !important;
+    }
+
+    .productCard {
+        width: calc(100% / 2 - 15px);
+        margin: 15px 0;
+    }
+
+    .labelCardItems {
+        width: calc(100% / 2 - 15px);
+        margin: 15px auto;
+    }
+}
+
+@media (max-width:576px) {
+    .BannerContentIconsItems>span {
+        margin-bottom: 5px;
+        display: grid;
+        place-content: center;
+    }
+
+    .BannerContentIconsItems>span>img {
+        width: 40px !important;
+        height: 40px !important;
+    }
+
+    .emailInfo>h4,
+    .emailInfo>h5 {
+        font-size: 16px;
+    }
+
+    .drop>span:nth-child(1) {
+        font-size: 13px;
+    }
+
+    .drop>span:nth-child(1)>small {
+        font-size: 10px;
+    }
+
+    .drop>span:nth-child(2) {
+        font-size: 30px;
+    }
+
+    .aboutBannerDiv>h1 {
+        font-size: 26px;
+    }
+
+    .aboutBannerDiv {
+        padding: 50px 0px;
+    }
+
+    .aboutHeading>h1 {
+        font-size: 24px;
+    }
+
+    .aboutHeading>h3 {
+        font-size: 18px;
+    }
+
+    .aboutContent>p {
+        font-size: 13px;
+    }
+
+    .addDrop>span,
+    .addCheck>label,
+    .addCheck>ul>li {
+        font-size: 14px;
+    }
+
+    .sectionHandlerHeading p,
+    .sectionHandlerHeading li {
+        font-size: 11px;
+    }
+
+    .sectionHandlerHeading a {
+        font-size: 12px;
+    }
+
+    .sectionHandlerHeading h1 {
+        font-size: 25px;
+    }
+
+    .sectionHandlerHeading p {
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+
+    .sectionHandlerHeading {
+        padding: 25px;
+    }
+
+    .ContactUsForm>.form-group,
+    .formStyle {
+        width: 100%;
+    }
+
+    .sliderBtn {
+        height: 86%;
+    }
+
+    .faqSecQestions::before {
+        top: -10px;
+        left: -40px;
+    }
+}
+
+@media (max-width:450px) {
+    .productCard {
+        width: calc(100% / 1 - 15px);
+    }
+
+    .labelCardItems {
+        width: calc(100% / 1 - 35px);
+    }
+
+    .swiper-slide>img {
+        width: 85%;
+        object-fit: contain;
+    }
+
+    .mySwiper {
+        height: 250px;
+    }
+
+    .emailInfo>h4,
+    .emailInfo>h5 {
+        font-size: 15px;
+    }
+
+    .drop>span:nth-child(1) {
+        font-size: 12px;
+    }
+
+    .aboutBannerDiv>h1 {
+        font-size: 22px;
+    }
+
+    .aboutBannerDiv {
+        padding: 45px 0px;
+    }
+
+    .aboutHeading>h1 {
+        font-size: 20px;
+    }
+
+    .aboutHeading>h3 {
+        font-size: 16px;
+    }
+
+    .aboutContent>p {
+        font-size: 12px;
+    }
+}
+
+@media (max-width:400px) {
+
+    .sectionHandlerHeading h1 {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+
+    .sectionHandlerHeading p,
+    .sectionHandlerHeading li {
+        font-size: 10px;
+    }
+
+    .sectionHandlerHeading a {
+        font-size: 11px;
+    }
+}
